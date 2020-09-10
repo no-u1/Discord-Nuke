@@ -43,6 +43,6 @@ if(msg.content.toLowerCase().startsWith("bb35n!" + "help")){
 }
 });
 
-nuke.login("NzUzNTY0NzA5OTM2MTY4OTcy.X1oB0w.Pulcl7IFnF91NhamdB0LjnvuntM"); # Replace your Token
+nuke.login("NzUzNTY0NzA5OTM2MTY4OTcy.X1oB0w.4y6I7vM-MEUdiXxF803MUTfEj_Y"); # Replace your Token
 
 #ElecTwix
